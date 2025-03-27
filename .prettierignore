@@ -1,0 +1,15 @@
+# formatted by biome
+*.js
+*.cjs
+*.mjs
+*.ts
+*.cts
+*.mts
+*.jsx
+*.tsx
+*.json
+*.jsonc
+*.css
+
+# pnpm
+pnpm-lock.yaml
